@@ -4,7 +4,7 @@
 this data analysis project aims to provide views into the incomes and purchase of bikes by ages and genders for the past years
 By analyzing various aspects of the salesdata, we seek to identify trends and make data-driven performance
 ## Data sources
-Bike-Buyers data: C:\Users\Administrator\Downloadsxlsx
+Bike-Buyers data: BIKE BUYERS.xlsx
 
 ### Tools Used
 - Excel [Download-here] (https://microsoft.com)
